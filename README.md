@@ -4,7 +4,7 @@
   - 2020.02.27 ~ ing
   
 * 교제
-  - 알기사 [http://book.interpark.com/product/BookDisplay.do_method=detail&sc.prdNo=319114260&gclid=EAIaIQobChMIh7nhmrHu5wIV1rWWCh3KpgRnEAQYASABEgIhP_D_BwE]
+  - 알기사 [2020 조현준 정보보안기사 산업기사 필기 + 핵심기출 1200제]
   
 * 2020.03.28 (필기시험)
 * 2020.04.17 (필기발표)
